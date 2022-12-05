@@ -1,0 +1,3 @@
+[submodule "fenuasoftware"]
+	path = fenuasoftware
+	url = git@github.com:digitaltechnonet/fenuasoftware.git
